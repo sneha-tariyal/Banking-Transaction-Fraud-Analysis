@@ -45,3 +45,16 @@ The project includes SQL analysis covering:
 
 - SQL
 - PostgreSQL
+
+## SQL Concepts Used
+CREATE TABLE
+SELECT and WHERE
+Aggregate Functions (COUNT, SUM, AVG)
+GROUP BY and ORDER BY
+CASE WHEN
+FILTER Clause
+ROUND()
+LIMIT
+Conditional Aggregation
+Fraud Rate Calculation
+Data Quality Validation
