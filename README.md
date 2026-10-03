@@ -58,3 +58,20 @@ LIMIT
 Conditional Aggregation
 Fraud Rate Calculation
 Data Quality Validation
+
+
+## Dataset Source & Preparation
+
+The original dataset was obtained from Kaggle:
+
+[PaySim – Synthetic Financial Datasets For Fraud Detection](https://www.kaggle.com/datasets/ealaxi/paysim1)
+
+The dataset was prepared in Microsoft Excel by renaming column headings for better readability before importing it into PostgreSQL.
+
+The prepared dataset was used for the SQL-based banking transaction and fraud analysis.
+
+**Dataset Format:** CSV
+
+**Preparation Tool:** Microsoft Excel
+
+**Analysis Tool:** PostgreSQL
